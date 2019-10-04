@@ -1,0 +1,14 @@
+sylius_admin_order_creation:
+    channel:
+        company:
+            not_blank: 'Compañía, no puede quedar en blanco'
+        taxId:
+            not_blank: 'N°. de contribuyente, no puede quedar en blanco'
+        street:
+            not_blank: 'Calle, no puede quedar en blanco'
+        city:
+            not_blank: 'Ciudad, no puede quedar en blanco'
+        postcode:
+            not_blank: 'Código postal, no puede quedar en blanco'
+        countryCode:
+            not_blank: 'País, no puede quedar en blanco'
