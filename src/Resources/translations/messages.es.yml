@@ -1,0 +1,18 @@
+sylius_invoicing_plugin:
+    ui:
+        billing_data: 'Datos de facturación'
+        buyer: 'Comprador'
+        channel: 'Canal'
+        download_invoice: 'Obtener factura'
+        invoice: 'Factura'
+        invoice_id: 'Identificador de factura'
+        invoice_number: 'No. de factura'
+        invoices: 'Facturas'
+        issued_at: 'Fecha de emisión'
+        issued_for_order: 'Factura del pedido'
+        issued_from: 'Emitido por'
+        manage_invoices: 'Administrar facturas'
+        order_number: 'Número de pedido'
+        resend_invoice: 'Reenviar'
+        seller: 'Vendedor'
+        tax_id: 'N°. de contribuyente'
